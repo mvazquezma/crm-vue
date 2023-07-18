@@ -1,12 +1,30 @@
 {
-    "clientes": [
-        {
-            "nombre": "Juan",
-            "id": 1
-        },
-        {
-            "nombre": "Otro Juan",
-            "id": 2
-        }
-    ]
+  "clientes": [
+    {
+      "nombre": "Juan desde Vue",
+      "apellido": "De la torre",
+      "email": "correo@correo.es",
+      "telefono": "123-123-1234",
+      "empresa": "Codigo con juan",
+      "puesto": "Full stack dev",
+      "id": 1
+    },
+    {
+      "nombre": "netflix",
+      "apellido": "De la torre",
+      "email": "correo@correo.es",
+      "telefono": "123-123-1234",
+      "empresa": "Codigo con juan",
+      "puesto": "jefe",
+      "id": 2
+    },
+    {
+      "nombre": "doctor (con router)",
+      "apellido": "De la torre",
+      "email": "correo@correo.es",
+      "telefono": "666-666-6666",
+      "empresa": "empresa1",
+      "id": 3
+    }
+  ]
 }
