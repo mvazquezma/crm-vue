@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Juan",
+      "nombre": "Otro",
       "apellido": "De la torre",
       "email": "correo@correo.es",
       "telefono": "123-123-1234",
@@ -9,6 +9,16 @@
       "puesto": "jefe",
       "estado": 1,
       "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "De la torre",
+      "email": "correo@correo.es",
+      "telefono": "123-123-1234",
+      "empresa": "Codigo con juan",
+      "puesto": "jefe",
+      "estado": 0,
+      "id": 2
     }
   ]
 }
